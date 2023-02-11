@@ -1,11 +1,8 @@
 # Evaluations points dostu proje
 
-## HTML nedir?
-
-HTML kullanıcıya basit bir web sayfası görüntülemek için web tarayıcınız tarafından - Chrome, Firefox veya Safari gibi - yorumlanan basit bir koddur.
-
-HTML "HyperText Markup Language" (HiperMetin İşaretleme Dili) anlamına gelir. **HyperText** (HiperMetin) sayfalar arası bağlantıları destekleyen türden bir metin demektir. **Markup** (işaretleme), bir belgeyi alıp onu kodlarla işaretleyerek, nasıl yorumlanacağını (tarayıcıya) söylemek demektir. HTML kodu **etiketler** ile oluşturulur, etiketlerin her biri `<` ile başlar ve `>` ile biter. Bu etiketler biçimlendirme **öğelerini** temsil eder.
-
+## Nasıl Çalışır?
+Öncelikle hangi proje için kullanılacaksa o projenin dosyası indirilir.
+Biz *C04* için kullanacağımızı varsayalım ve *c04control.c* dosyamızı indirelim.
 ## İlk template'iniz!
 
 Bir template oluşturmak bir template dosyası oluşturmak demektir. Her şey bir dosyadır, değil mi? Bunu muhtemelen zaten fark etmişsinizdir.
