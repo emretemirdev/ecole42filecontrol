@@ -56,7 +56,9 @@ char *dirs[] = {"ex00", "ex00","ex00"};
 char *files[] = {"ft_ft.c", "ft_putstr.c","putstr.c"};
 
 ```
-Yazmam yeterli olacaktır. Şimdilik daha hızlı bir çözüm bulamadım. İlerleyen günlerde bunun daha hızlı çalışan versiyonunu yapacağım.
+Yazmam yeterli olacaktır. Şimdilik daha hızlı bir çözüm bulamadım. İlerleyen günlerde bunun daha hızlı çalışan versiyonunu yapacağım. 
+
+For döngüsünde bulunan i(index) değerini revize etmeyi unutmayın.
 
 ## Roadmap
 
