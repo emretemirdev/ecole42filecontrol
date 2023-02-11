@@ -2,7 +2,8 @@
 
 ## Nasıl Çalışır?
 Öncelikle hangi proje için kullanılacaksa o projenin dosyası indirilir.
-Biz *C04* için kullanacağımızı varsayalım ve *c04control.c* dosyamızı indirelim.
+
+Biz `C04` için kullanacağımızı varsayalım ve `c04control.c` dosyamızı indirelim.
 ## İlk template'iniz!
 
 Bir template oluşturmak bir template dosyası oluşturmak demektir. Her şey bir dosyadır, değil mi? Bunu muhtemelen zaten fark etmişsinizdir.
