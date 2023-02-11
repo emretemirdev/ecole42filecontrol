@@ -1,4 +1,4 @@
-# Evaluations points dostu proje
+# Evaluation points dostu proje
 
 ## Nasıl Çalışır?
 Öncelikle hangi proje için kullanılacaksa o projenin dosyası indirilir.
