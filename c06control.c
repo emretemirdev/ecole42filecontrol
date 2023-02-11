@@ -4,8 +4,8 @@
 
 int main(void)
 {
-    char *dirs[] = {"ex00", "ex01", "ex02", "ex03", "ex04", "ex05", "ex06", "ex07", "ex08"};
-    char *files[] = {"ft_ft.c", "ft_ultimate_ft.c", "ft_swap.c", "ft_div_mod.c", "ft_putstr.c","ft_strlen.c","ft_rev_int_tab.c","ft_sort_int_tab.c"};
+    char *dirs[] = {"ex00", "ex01", "ex02", "ex03"};
+    char *files[] = {"ft_print_program_name.c", "ft_print_params.c", "ft_rev_params.c", "ft_sort_params.c"};
 
     int i;
     for (i = 0; i < 4; i++)

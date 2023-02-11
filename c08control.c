@@ -4,11 +4,11 @@
 
 int main(void)
 {
-    char *dirs[] = {"ex00", "ex01", "ex02", "ex03", "ex04", "ex05", "ex06", "ex07", "ex08"};
-    char *files[] = {"ft_ft.c", "ft_ultimate_ft.c", "ft_swap.c", "ft_div_mod.c", "ft_putstr.c","ft_strlen.c","ft_rev_int_tab.c","ft_sort_int_tab.c"};
+    char *dirs[] = {"ex00", "ex01", "ex02", "ex03", "ex04", "ex05",};
+    char *files[] = {"ft.h", "ft_boolean.h", "ft_abs.h", "ft_point.h", "ft_strs_to_tab.c","ft_show_tab.c"};
 
     int i;
-    for (i = 0; i < 4; i++)
+    for (i = 0; i < 6; i++)
     {
         char path[100];
         sprintf(path, "%s/%s", dirs[i], files[i]);
