@@ -21,7 +21,7 @@ Kodun doğru çalışması için dosya dizininiz şu şekilde olmalı;
                  
 Dosya diziniz bu şekilde olduğu zaman tek yapmanız gereken gcc(gcc c04control.c) ile kodu derlemek ve oluşan ./a.out dosyanızdan sonuçları görmek.
 
-<img src="https://i.hizliresim.com/3py9ci4.png" alt="DosyaDizin" width="320" height="180">
+<img src="https://i.hizliresim.com/3py9ci4.png" alt="DosyaDizin" width="100" height="530">
 ## Template özelleştirme
 
 Şimdi artık biraz eğlenip template'inizi özelleştirmeyi deneyebilirsiniz! İşte bunun için faydalı birkaç etiket:
