@@ -40,16 +40,20 @@ Bu şekilde, bu kodu kişiselleştirebilir ve kendi ihtiyaçlarınıza göre kul
 
 Örnek vermek gerekirse ex00 klasörünün içerisinde ft_ft.c && ft_putstr.c && ft_putstr.c olmak üzere üç dosyanın da kontrolünü sağlamak istiyoruz diyelim.
 
-```    char *dirs[] = {"ex00", "ex01",};
-    char *files[] = {"ft_strlen.c", "ft_putstr.c",};
+```
+
+char *dirs[] = {"ex00", "ex01",};
+char *files[] = {"ft_strlen.c", "ft_putstr.c",};
 
 ```
 Yukarıda gördüğünüz kod bloğu Ex00'da -> ft_strlen.c dosyasını aramakta Ex01 -> ft_putstr.c dosyasını aramakta.....
 
 Ben ise Ex00 içerisinde ft_ft.c && ft_putstr.c && ft_putstr.c aramak istiyorum bunun için;
 
-```    char *dirs[] = {"ex00", "ex00","ex00"};
-    char *files[] = {"ft_ft.c", "ft_putstr.c","putstr.c"};
+```  
+
+char *dirs[] = {"ex00", "ex00","ex00"};
+char *files[] = {"ft_ft.c", "ft_putstr.c","putstr.c"};
 
 ```
 Yazmam yeterli olacaktır. Şimdilik daha hızlı bir çözüm bulamadım. İlerleyen günlerde bunun daha hızlı çalışan versiyonunu yapacağım.
