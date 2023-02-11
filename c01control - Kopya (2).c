@@ -4,8 +4,8 @@
 
 int main(void)
 {
-    char *dirs[] = {"ex00", "ex01", "ex02", "ex03"};
-    char *files[] = {"ft_putchar.c", "ft_print.c", "ft_ssd.c", "ft_ft.c"};
+    char *dirs[] = {"ex00", "ex01", "ex02", "ex03", "ex04", "ex05", "ex06", "ex07", "ex08"};
+    char *files[] = {"ft_ft.c", "ft_ultimate_ft.c", "ft_swap.c", "ft_div_mod.c", "ft_putstr.c","ft_strlen.c","ft_rev_int_tab.c","ft_sort_int_tab.c"};
 
     int i;
     for (i = 0; i < 4; i++)
@@ -20,7 +20,7 @@ int main(void)
         }
         else
         {
-            printf("%s dosyasý %s\n klasörü içinde yok", files[i], dirs[i]);
+            printf("%s dosyasý %s\n klasöründe yok", files[i], dirs[i]);
         }
     }
     return 0;
