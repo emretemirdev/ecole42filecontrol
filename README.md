@@ -24,11 +24,12 @@ Kodun doğru çalışması için dosya dizininiz şu şekilde olmalı;
 <img src="https://i.hizliresim.com/3py9ci4.png" alt="DosyaDizin" width="1011" height="530">
 
 `Sadece ex00 klasörünün içindeki dosyanın adını doğru, geri kalanlarının yanlış yazdım ve sonuç yukarıda gördüğünüz gibi.`
-## Template özelleştirme
+## C04control.c kodunu referans alarak kodların açıklanması
 
 Şimdi artık biraz eğlenip template'inizi özelleştirmeyi deneyebilirsiniz! İşte bunun için faydalı birkaç etiket:
 
-* `<h1>Bir başlık</h1>` en önemli başlığınız (ana başlık)
+* ` char *dirs[] = {"ex00", "ex01", "ex02", "ex03", "ex04", "ex05"};
+    char *files[] = {"ft_strlen.c", "ft_putstr.c", "ft_putnbr.c", "ft_atoi.c", "ft_putnbr_base.c", "ft_atoi_base"};` en önemli başlığınız (ana başlık)
 * `<h2>Bir alt başlık</h2>` - bir sonraki seviyedeki bir başlık için
 * `<h3>Bir alt-alt başlık</h3>`…ve böyle `<h6>`'ya kadar gider
 * `<p>Metin paragrafı</p>`
