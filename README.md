@@ -35,3 +35,9 @@ Dizin ve dosya sayısını değiştirin: `for` döngüsündeki 6 değerini, kont
 Mesajları değiştirin: `printf` fonksiyonlarındaki mesajları kendi isteklerinize göre değiştirin.
 
 Bu şekilde, bu kodu kişiselleştirebilir ve kendi ihtiyaçlarınıza göre kullanabilirsiniz.
+
+## Roadmap
+
+- [x] Klasör adı ve içindeki dosyaya göre arama yapma
+- [ ] Tüm C projeleri için kontrol sağlanması
+- [ ] Dosyaların içerisindeki fonksiyonların kontrolü
