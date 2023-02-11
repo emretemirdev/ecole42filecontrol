@@ -1,10 +1,4 @@
-# 42 İstanbul öğrencileri için evaluations points dostu proje
-
-Template nedir diye sorabilirsiniz.
-
-Template (şablon), farklı bilgileri hep aynı biçimde sunmak için tekrar tekrar kullanabileceğimiz bir dosyadır - örneğin, mektup yazmanıza yardımcı olan bir template kullanabilirsiniz çünkü yazacağınız tüm mektuplar farklı mesajlar içerse ve farklı kişilere gönderilse de aynı sayfa düzenine sahip olacaktır.
-
-Bir Django template'inin formatı HTML adını verdiğimiz bir dilde tanımlanır (**İnternet nasıl çalışır** adlı ilk bölümde bahsettiğimiz HTML).
+# Evaluations points dostu proje
 
 ## HTML nedir?
 
