@@ -17,7 +17,7 @@ Kodun doğru çalışması için dosya dizininiz şu şekilde olmalı;
                  └───ex03
                  └───ex04
                  └───ex05
-<img src="https://url/to/img.png" alt="alt text" width="320" height="180">
+<img src="https://i.hizliresim.com/spf8es3.png" alt="alt text" width="320" height="180">
                  
 Dosya diziniz bu şekilde olduğu zaman tek yapmanız gerecek gcc(gcc c04control.c) ile kodu derlemek ve oluşan ./a.out dosyanızdan sonuçları görmek.
 
