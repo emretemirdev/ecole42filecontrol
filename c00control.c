@@ -16,11 +16,11 @@ int main(void)
         struct stat sb;
         if (stat(path, &sb) == 0 && S_ISREG(sb.st_mode))
         {
-            printf("%s dosyasý %s klasörü içinde mevcut\n", files[i], dirs[i]);
+            printf("%s dosya %s da mevcut\n", files[i], dirs[i]);
         }
         else
         {
-            printf("%s dosyasý %s\n klasöründe yok", files[i], dirs[i]);
+            printf("%s dosya %s da yok\n", files[i], dirs[i]);
         }
     }
     return 0;
