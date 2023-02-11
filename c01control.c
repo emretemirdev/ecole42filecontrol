@@ -8,7 +8,7 @@ int main(void)
     char *files[] = {"ft_ft.c", "ft_ultimate_ft.c", "ft_swap.c", "ft_div_mod.c", "ft_putstr.c","ft_strlen.c","ft_rev_int_tab.c","ft_sort_int_tab.c"};
 
     int i;
-    for (i = 0; i < 4; i++)
+    for (i = 0; i < 9; i++)
     {
         char path[100];
         sprintf(path, "%s/%s", dirs[i], files[i]);
