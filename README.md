@@ -24,3 +24,14 @@ Kodun doğru çalışması için dosya dizininiz şu şekilde olmalı;
 <img src="https://i.hizliresim.com/3py9ci4.png" alt="DosyaDizin" width="1011" height="530">
 
 `Sadece ex00 klasörünün içindeki dosyanın adını doğru, geri kalanlarının yanlış yazdım ve sonuç yukarıda gördüğünüz gibi.`
+
+## Kişiselleştirme
+Bu kodun kullanım amacı belirtilen dizinlerdeki belirtilen dosyaların varlığını kontrol etmek ve dosyaların varlığı durumuna göre bir mesaj göstermektir. Bu kodu kişiselleştirmek için aşağıdaki adımları uygulayabilirsiniz:
+
+Dizin ve dosya isimlerini değiştirin: Öncelikle, `dirs` ve `files` dizilerindeki dosya ve dizin isimlerini kendi isteklerinize göre değiştirin.
+
+Dizin ve dosya sayısını değiştirin: `for` döngüsündeki 6 değerini, kontrol etmek istediğiniz dizin ve dosya sayısına göre değiştirin.
+
+Mesajları değiştirin: `printf` fonksiyonlarındaki mesajları kendi isteklerinize göre değiştirin.
+
+Bu şekilde, bu kodu kişiselleştirebilir ve kendi ihtiyaçlarınıza göre kullanabilirsiniz.
