@@ -19,9 +19,9 @@ Kodun doğru çalışması için dosya dizininiz şu şekilde olmalı;
                  └───ex05
 <img src="https://i.hizliresim.com/spf8es3.png" alt="alt text" width="961" height="546">
                  
-Dosya diziniz bu şekilde olduğu zaman tek yapmanız gerecek gcc(gcc c04control.c) ile kodu derlemek ve oluşan ./a.out dosyanızdan sonuçları görmek.
+Dosya diziniz bu şekilde olduğu zaman tek yapmanız gereken gcc(gcc c04control.c) ile kodu derlemek ve oluşan ./a.out dosyanızdan sonuçları görmek.
 
-<img src="https://drive.google.com/drive/u/0/folders/1yKPohBzjgbPitymuLksJiXE-s0H8tT3p" alt="DosyaDizin" width="320" height="180">
+<img src="https://i.hizliresim.com/3py9ci4.png" alt="DosyaDizin" width="320" height="180">
 ## Template özelleştirme
 
 Şimdi artık biraz eğlenip template'inizi özelleştirmeyi deneyebilirsiniz! İşte bunun için faydalı birkaç etiket:
